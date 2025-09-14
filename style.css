@@ -43,15 +43,6 @@ p {
     margin-bottom: 20px;
 }
 
-p1{
-    font-size: 24px;
-    padding-top: 200px;
-    margin-left: 20px;
-    text-align: center;
-    
-    
-}
-
 a {
     color: #ff0000;
     text-decoration: none;
@@ -60,4 +51,9 @@ a {
 a:hover {
     text-decoration: underline;
     color: #ff0000;
+}
+
+footer{
+    font-size: 24px;
+    margin-left: 22px;
 }
